@@ -38,12 +38,12 @@ Welcome to my profile! I'm a highly skilled Network Engineer with a passion for 
 
 **Personal Projects 🤔**
 
-* [Insert brief descriptions of any personal projects you've worked on]
+*Packet Tracer Projects on GitHub
 
 **Contact Information 📲**
 
-* Email: yoshinojunpei44@gmaail.com
-* LinkedIn: [[insert LinkedIn profile URL]](https://www.linkedin.com/in/larry-shein-htut-aung/)
+* Email: yoshinojunpei44@gmail.com
+* LinkedIn: (https://www.linkedin.com/in/larry-shein-htut-aung/)
 
 
 **Let's Connect! 💬**
