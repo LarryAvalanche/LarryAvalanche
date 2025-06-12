@@ -26,11 +26,6 @@ Welcome to my profile! I'm a highly skilled Network Engineer with a passion for 
 	+ Network topology and architecture
 	+ Network protocols and standards
 
-**Projects 🎨**
-
-* [Insert links to your GitHub projects or repositories]
-* [Insert brief descriptions of your projects]
-
 **Tools & Technologies 🔧**
 
 * **Programming Languages**: Python 3.x, Bash scripting
@@ -47,9 +42,9 @@ Welcome to my profile! I'm a highly skilled Network Engineer with a passion for 
 
 **Contact Information 📲**
 
-* Email: [insert email address]
-* LinkedIn: [insert LinkedIn profile URL]
-* Twitter: [insert Twitter handle]
+* Email: yoshinojunpei44@gmaail.com
+* LinkedIn: [[insert LinkedIn profile URL]](https://www.linkedin.com/in/larry-shein-htut-aung/)
+
 
 **Let's Connect! 💬**
 
